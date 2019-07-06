@@ -20,6 +20,3 @@
 - [TODO]()
 - [参考](http://images3.mca.gov.cn/www/file/201711/1509495881341.pdf)
 
-
-- [test](http://dlied4.myapp.com/myapp/1104466820/sgame/2017_com.tencent.tmgp.sgame_h9125_1.45.1.6_78a918.apk)
-
